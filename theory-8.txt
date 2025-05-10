@@ -1,0 +1,21 @@
+Here’s a more concise version of the **Lab Report for Lab 8** with a bullet-point **Objective** and a shortened **Theory** section:
+
+---
+
+## **Lab 8: Speech-to-Text Conversion Using Google Speech Recognition API**
+
+### **Objective**
+
+* To convert spoken words into text using Python.
+* To understand the working of Google Speech Recognition API.
+* To implement real-time speech input and display corresponding text.
+
+---
+
+### **Theory**
+
+Speech recognition converts spoken language into text using computational models. Google’s Speech Recognition API leverages cloud-based deep learning to provide accurate transcription of speech. The process involves capturing audio via a microphone, sending it to the API, and receiving transcribed text. The `speech_recognition` Python library is commonly used for interfacing with the API in real-time applications.
+
+---
+
+Would you like me to continue with the **Python code**, **Output**, and **Conclusion** sections next?
