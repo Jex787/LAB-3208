@@ -1,0 +1,38 @@
+Yes, you’re absolutely right.
+
+**Lab 3** typically includes multiple **thresholding techniques**, not just Otsu’s method. Here’s a quick overview of what’s usually covered in such a lab:
+
+---
+
+### **Common Thresholding Techniques in Lab 3**
+
+1. **Global Thresholding**
+
+   * A fixed threshold value (e.g., 128) is applied across the entire image.
+   * Simple but sensitive to lighting variations.
+
+2. **Adaptive Thresholding**
+
+   * The threshold is computed locally for different regions of the image.
+   * Good for non-uniform lighting conditions.
+   * Common methods:
+
+     * Mean Adaptive Thresholding
+     * Gaussian Adaptive Thresholding
+
+3. **Otsu’s Thresholding**
+
+   * An automatic, global method.
+   * Calculates the threshold by maximizing inter-class variance.
+   * Ideal for bimodal histograms (foreground/background contrast).
+
+---
+
+Would you like me to revise the theory section to include all three methods and label the experiment accordingly?
+
+
+To perform image segmentation using intensity-based thresholding.
+
+To apply Otsu’s method for automatic threshold selection.
+
+To extract objects or regions of interest from a grayscale image.
