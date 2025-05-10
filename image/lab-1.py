@@ -1,3 +1,5 @@
+# Noise Removal Using Mean and Gaussian Filters
+
 import cv2, numpy as np
 import matplotlib.pyplot as plt
 from scipy.ndimage import median_filter

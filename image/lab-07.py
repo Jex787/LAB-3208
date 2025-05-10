@@ -1,3 +1,5 @@
+# Image Convolution Using a 3x3 Mask
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt

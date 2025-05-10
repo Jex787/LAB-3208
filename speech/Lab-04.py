@@ -1,3 +1,5 @@
+# Evaluation and Comparison of Pitch Estimation Algorithms (YIN, PYIN, CREPE, SWIPE)
+
 import os
 # Suppress TensorFlow info/warning logs
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'

@@ -1,3 +1,5 @@
+# Edge Detection Using Sobel, Prewitt, and Canny Operators
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt

@@ -1,3 +1,5 @@
+# Text-Dependent Speaker Identification Using MFCC and Cosine Similarity with GMM
+
 import numpy as np
 import scipy.io.wavfile as wav
 from python_speech_features import mfcc

@@ -1,6 +1,4 @@
-# Comparative Analysis of Speech Feature Extraction Techniques
-
-# Comparative Analysis of Speech Feature Extraction Techniques
+# Comparative Analysis of Speech Feature Extraction Techniques (MFCC, PLP, LPC)
 
 import librosa
 import python_speech_features as psf

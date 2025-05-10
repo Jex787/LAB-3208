@@ -1,3 +1,5 @@
+# Implementation of Real-Time Continuous Speech Recognition System Using VAD and Google API
+
 import speech_recognition as sr
 
 def main():

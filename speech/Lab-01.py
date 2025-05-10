@@ -1,3 +1,5 @@
+# Speech-to-Text Conversion Using Google Speech Recognition API
+
 import sounddevice as sd
 from scipy.io.wavfile import write
 import speech_recognition as sr

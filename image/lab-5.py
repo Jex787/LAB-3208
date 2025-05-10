@@ -1,3 +1,5 @@
+# Character Segmentation from an Image
+
 import cv2, numpy as np, matplotlib.pyplot as plt
 from skimage.filters import threshold_local
 from skimage.morphology import remove_small_objects
